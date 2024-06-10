@@ -9,8 +9,8 @@
 
 > skills
 
-- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
-![AdonisJs](https://img.shields.io/badge/adonisjs-5A45FF?logo=adonisjs)
+- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?logo=springboot)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+![AdonisJs](https://img.shields.io/badge/adonisjs-5A45FF?logo=adonisjs)![NestJs](https://img.shields.io/badge/nestjs-E0234E?logo=nestjs)
 
 
 
