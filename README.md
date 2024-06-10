@@ -10,7 +10,7 @@
 > skills
 
 - 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
-![Custom Badge](https://img.shields.io/badge/Custom-Badge-red?style=flat&logo=[https%3A%2F%2Fcamo.githubusercontent.com%2F36bfb54c701fb8cbf8101959c448286ae4d827ea7ca743b05b0b21fe7293d4af%2F68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c2d7265643f7374796c653d666c61742d636972636c65266c6f676f3d7368656c6c](https://cdn-icons-png.flaticon.com/128/919/919825.png))
+![AdonisJs](https://img.shields.io/badge/adonisjs-5A45FF?logo=adonisjs)
 
 
 
